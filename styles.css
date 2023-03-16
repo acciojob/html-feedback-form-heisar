@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+form {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+	align-items: center;
+}
+
+div {
+	width: 50%;
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+
+button {
+	width: 50%;
+}
